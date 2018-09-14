@@ -1,0 +1,15 @@
+﻿  compilation header save succeeded; see C:\Users\Nickolas Theodoulou\Google Drive\Free Time\c++ free time\My_Space_Invaders_V1\Engine\FramebufferPS.shh
+  compilation header save succeeded; see C:\Users\Nickolas Theodoulou\Google Drive\Free Time\c++ free time\My_Space_Invaders_V1\Engine\FramebufferVS.shh
+  DXErr.cpp
+  Game.cpp
+  Graphics.cpp
+  Keyboard.cpp
+  Main.cpp
+  MainWindow.cpp
+  Mouse.cpp
+  Rocket.cpp
+  Generating code
+  All 634 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Engine.vcxproj -> C:\Users\Nickolas Theodoulou\Google Drive\Free Time\c++ free time\My_Space_Invaders_V1\Release\Engine.exe
+  Engine.vcxproj -> C:\Users\Nickolas Theodoulou\Google Drive\Free Time\c++ free time\My_Space_Invaders_V1\Release\Engine.pdb (Full PDB)
